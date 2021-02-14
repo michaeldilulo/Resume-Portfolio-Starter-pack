@@ -4,15 +4,15 @@
     "occupation": "Full Stack Developer",
     "description": "I love learning, and seeing project ideas I have come to life",
     "image": "NonColoredProf.jpg",
-    "bio": "Hi there! I am Mike DiLulo, I attended a full stack developer boot camp through Boise Codeworks from November 2019 to February 2020. At Boise Codeworks I learned HTML, CSS, JavaScript, Vue.js as the Front-End Framework, Node.js and C# on the backend, along with MongoDB and MySQL for databases. Since graduating I have also taken on learning React.js. I have a passion for helping others and spend my free time outdoors with my pup. I love to learn something new everyday, and have taken a deep interest in Cybersecurity as of late. I have served in the National Guard for 12 years, and love what I do, being there for the community when they are in need of assistance and comfort.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Michael DiLulo, I attended a full stack developer boot camp through Boise Codeworks from November 2019 to February 2020. At Boise Codeworks I learned HTML, CSS, JavaScript, Vue.js as the Front-End Framework, Node.js and C# on the backend, along with MongoDB and MySQL for databases. Since graduating I have also taken on learning React.js. I have a passion for helping others and spend my free time outdoors with my pup. I love to learn something new everyday, and have taken a deep interest in Cybersecurity as of late. I have served in the National Guard for 12 years, and love what I do, being there for the community when they are in need of assistance and comfort.",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!", 
+    "email": "mikedilulo2020@gmail.com",
+    "phone": "(986) 224-0435",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "",
+      "city": "Boise",
+      "state": "Idaho",
+      "zip": "83704"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
