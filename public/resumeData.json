@@ -4,7 +4,7 @@
     "occupation": "Full Stack Developer",
     "description": "I love learning, and seeing project ideas come to life. Development is my passion",
     "image": "NonColoredProf.jpg",
-    "bio": "Hi there! I am Michael DiLulo, I attended a full stack developer boot camp through Boise Codeworks from November 2019 to February 2020. At Boise Codeworks I learned HTML, CSS, JavaScript, Vue.js as the Front-End Framework, Node.js and C# on the backend, along with MongoDB and MySQL for databases. Since graduating I have also taken on learning React.js. I have a passion for helping others and spend my free time outdoors with my pup. I love to learn something new everyday, and have taken a deep interest in Cybersecurity as of late. I have served in the National Guard for 12 years, and love what I do, being there for the community when they are in need of assistance and comfort. Every year in March I take part in following the Iditarod Dog Sled Race. The event has such a great tradition and rich backstory. It would be a big dream accomplished to take part in such an event.",
+    "bio": "Hi there! I am Michael DiLulo, I attended a full stack developer boot camp through Boise Codeworks from November 2019 to February 2020. At Boise Codeworks I learned HTML, CSS, JavaScript, Vue.js as the Front-End Framework, Node.js and C# on the backend, along with MongoDB and MySQL for databases. Since graduating I have also taken on learning React.js. I have a passion for helping others and spend my free time outdoors with my pup. I love to learn something new everyday, and have taken a deep interest in Cybersecurity as of late. I have served in the National Guard for 12 years, and love what I do, being there for the community when they are in need of assistance and comfort. Every year in March I love to follow the Iditarod Dog Sled Race, even though I do it from home. The story behind it is so inspiring, and really displays the true meaning of enduring hard times, and never giving up. The event has such a great tradition and rich backstory. After watching the story behind the race, it really has led me through life with the mindset that even if times get tough, even if you cannot see two feet in front of you, follow your instincts, and never give up, you will find yourself at the finish line, happy you endured the journey.",
     "contactmessage": "I would love to get in contact, and even grab a cup of coffee!", 
     "email": "mikedilulo2020@gmail.com",
     "phone": "(986) 224-0435",
@@ -48,40 +48,64 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "American Military University",
+        "degree": "Bachelor's Degree, Cybersecurity",
+        "graduated": "Attending March 2021",
+        "description": "Will be pursuing my online degree in Cybersecurity come March 2021. I am incredibly excited to pursue a degree in a field I have a deep interest in."
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Currently Unemployed",
+        "title": "Keeping up on my JavaScript skills in hopes of getting into the industry",
+        "years": "Present",
+        "description": "Current Project: Currently finalizing ideas for a website for my dad's food truck business start up. I am incredibly excited to be a part of his journey."
       }
     ],
     "skills": [
-      {
-        "name": "ReactJs",
-        "level": "100%"
+            {
+        "name": "HTML",
+        "level": "90%"
       },
-      {
-        "name": "Python",
-        "level": "85%"
-      },
-      {
-        "name": "Git",
+            {
+        "name": "CSS",
         "level": "70%"
       },
-      {
+            {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "70%"
+      },
+            {
+        "name": "Node.js",
+        "level": "70%"
+      },
+            {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+            {
+        "name": "Vue.js",
+        "level": "60%"
+      },
+            {
+        "name": "C#",
+        "level": "40%"
+      },
+            {
+        "name": "MySQL Database",
+        "level": "60%"
+      },
+            {
+        "name": "Scrum / Agile",
+        "level": "80%"
+      },
+            {
+        "name": "Git / Branching Strategies",
+        "level": "90%"
       },
       {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "ReactJs",
+        "level": "70%"
       }
     ]
   },
