@@ -69,7 +69,7 @@
       },
             {
         "name": "CSS",
-        "level": "70%"
+        "level": "80%"
       },
             {
         "name": "JavaScript",
@@ -134,12 +134,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Mike is sharp and determined. I’ve been on multiple projects with Mike and his ability to quickly grasp a concept and apply it to our work helped the team save time and push past obstacles. We worked on a web application together (JavaScript, Vue.js & MongoDb) and were able to complete our project ahead of schedule, thanks to Mike’s skill set. His years of military experience distilled into him a grit and perspective that were pivotal in our teams success in completing our deliverable.",
+        "user": "JD Fuller"
       }
     ]
   }
