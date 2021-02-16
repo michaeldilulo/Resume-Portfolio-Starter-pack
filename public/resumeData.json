@@ -134,6 +134,30 @@
         "category": "",
         "image": "blog.PNG",
         "url": ""
+      },
+            {
+        "title": "Castle Hunter (HTML & CSS)",
+        "category": "",
+        "image": "castleimagefive.jpg",
+        "url": ""
+      },
+            {
+        "title": "Chicken and Rice Timer (HTML, CSS, JS)",
+        "category": "",
+        "image": "ChickenRiceTimer.PNG",
+        "url": ""
+      },
+            {
+        "title": "Chocolate Museum (HTML & CSS)",
+        "category": "",
+        "image": "Chocolate3.jpg",
+        "url": ""
+      },
+            {
+        "title": "COVID-19 Tracker (React.js)",
+        "category": "",
+        "image": "covidpopup.PNG",
+        "url": ""
       }
     ]
   },
