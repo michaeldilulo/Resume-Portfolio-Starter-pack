@@ -188,6 +188,36 @@
         "category": "",
         "image": "Guessing Game.PNG",
         "url": ""
+      },
+            {
+        "title": "Hulu Clone (React.js)",
+        "category": "",
+        "image": "hulu clone.PNG",
+        "url": ""
+      },
+            {
+        "title": "IMDB Database (HTML, CSS, JS)",
+        "category": "",
+        "image": "IMDB Database.PNG",
+        "url": ""
+      },
+            {
+        "title": "Messenger Clone (React.js)",
+        "category": "",
+        "image": "messenger.PNG",
+        "url": ""
+      },
+            {
+        "title": "Mousetronaut Miners (HTML, CSS, JS)",
+        "category": "",
+        "image": "moustronautminer.PNG",
+        "url": ""
+      },
+            {
+        "title": "Netflix Clone (React.js)",
+        "category": "",
+        "image": "netflix_seven.PNG",
+        "url": ""
       }
     ]
   },
