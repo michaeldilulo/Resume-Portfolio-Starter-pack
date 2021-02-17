@@ -158,6 +158,36 @@
         "category": "",
         "image": "covidpopup.PNG",
         "url": ""
+      },
+            {
+        "title": "Dice Roller (HTML, CSS, JS)",
+        "category": "",
+        "image": "diceroller.PNG",
+        "url": ""
+      },
+            {
+        "title": "Egg timer (HTML, CSS, JS)",
+        "category": "",
+        "image": "eggtimer.PNG",
+        "url": ""
+      },
+            {
+        "title": "Photography Portfolio (HTML, CSS, JS)",
+        "category": "",
+        "image": "goodideas.jpg",
+        "url": ""
+      },
+            {
+        "title": "Google Clone (React.js)",
+        "category": "",
+        "image": "Google Clone.PNG",
+        "url": ""
+      },
+            {
+        "title": "Guessing Game (HTML, CSS, JS)",
+        "category": "",
+        "image": "Guessing Game.PNG",
+        "url": ""
       }
     ]
   },
