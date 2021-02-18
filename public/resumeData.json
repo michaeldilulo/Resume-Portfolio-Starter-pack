@@ -224,6 +224,30 @@
         "category": "",
         "image": "netflix_seven.PNG",
         "url": ""
+      },
+            {
+        "title": "# Guess (HTML, CSS, JS)",
+        "category": "",
+        "image": "numberguess.PNG",
+        "url": ""
+      },
+            {
+        "title": "Personal Resume (HTML, CSS, JS)",
+        "category": "",
+        "image": "personalresume.PNG",
+        "url": ""
+      },
+            {
+        "title": "Leaf Life (HTML, CSS, JS)",
+        "category": "",
+        "image": "planttwo.jpg",
+        "url": ""
+      },
+            {
+        "title": "Portfolio (HTML, CSS, JS)",
+        "category": "",
+        "image": "portfoliofour.PNG",
+        "url": ""
       }
     ]
   },
