@@ -250,39 +250,39 @@
         "url": ""
       },
             {
-        "title": "Portfolio (HTML, CSS, JS)",
+        "title": "Site Clone (HTML, CSS, JS)",
         "category": "",
         "image": "puppycardimage2.jpg",
         "url": ""
       },
             {
-        "title": "Portfolio (HTML, CSS, JS)",
+        "title": "Todo App (React.js)",
         "category": "",
-        "image": "portfoliofour.PNG",
+        "image": "React.jsFirebase.PNG",
         "url": ""
       },
             {
-        "title": "Portfolio (HTML, CSS, JS)",
+        "title": "Restaurant Site (HTML, CSS, JS)",
         "category": "",
-        "image": "portfoliofour.PNG",
+        "image": "restaurantbackground2.jpg",
         "url": ""
       },
             {
-        "title": "Portfolio (HTML, CSS, JS)",
+        "title": "Stoplight (CSS)",
         "category": "",
-        "image": "portfoliofour.PNG",
+        "image": "stoplight2.png",
         "url": ""
       },
             {
-        "title": "Portfolio (HTML, CSS, JS)",
+        "title": "Survey Form (HTML, CSS,)",
         "category": "",
-        "image": "portfoliofour.PNG",
+        "image": "surveyform.PNG",
         "url": ""
       },
             {
-        "title": "Portfolio (HTML, CSS, JS)",
+        "title": "Product Page (HTML, CSS)",
         "category": "",
-        "image": "portfoliofour.PNG",
+        "image": "productpage.PNG",
         "url": ""
       }
     ]
