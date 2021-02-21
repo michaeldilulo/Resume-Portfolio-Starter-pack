@@ -133,7 +133,7 @@
         "title": "Balloon Pop (Vanilla JS)",
         "category": "",
         "image": "balloonpop.PNG",
-        "url": ""
+        "url": "https://snl-balloonpop.netlify.app/"
       },
             {
         "title": "Blog (HTML & CSS)",
@@ -175,13 +175,13 @@
         "title": "Egg timer (HTML, CSS, JS)",
         "category": "",
         "image": "eggtimer.PNG",
-        "url": ""
+        "url": "https://snl-eggtimer.netlify.app/"
       },
             {
         "title": "Photography Portfolio (HTML, CSS, JS)",
         "category": "",
         "image": "goodideas.jpg",
-        "url": ""
+        "url": "https://snl-photography-portfolio.netlify.app/"
       },
             {
         "title": "Google Clone (React.js)",
@@ -265,7 +265,7 @@
         "title": "Restaurant Site (HTML, CSS, JS)",
         "category": "",
         "image": "restaurantbackground2.jpg",
-        "url": ""
+        "url": "https://snl-top-restaurant-site.netlify.app/"
       },
             {
         "title": "Stoplight (CSS)",
@@ -277,7 +277,7 @@
         "title": "Survey Form (HTML, CSS,)",
         "category": "",
         "image": "surveyform.PNG",
-        "url": ""
+        "url": "https://snl-survey-form.netlify.app/"
       },
             {
         "title": "Product Page (HTML, CSS)",
