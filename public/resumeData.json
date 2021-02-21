@@ -151,7 +151,7 @@
         "title": "Chicken and Rice Timer (HTML, CSS, JS)",
         "category": "",
         "image": "ChickenRiceTimer.PNG",
-        "url": ""
+        "url": "https://snl-chicken-and-rice-timer.netlify.app/"
       },
             {
         "title": "Chocolate Museum (HTML & CSS)",
@@ -169,7 +169,7 @@
         "title": "Dice Roller (HTML, CSS, JS)",
         "category": "",
         "image": "diceroller.PNG",
-        "url": ""
+        "url": "https://snl-diceroller.netlify.app/"
       },
             {
         "title": "Egg timer (HTML, CSS, JS)",
@@ -217,7 +217,7 @@
         "title": "Mousetronaut Miners (HTML, CSS, JS)",
         "category": "",
         "image": "moustronautminer.PNG",
-        "url": ""
+        "url": "https://snl-moustronaut-miners.netlify.app/"
       },
             {
         "title": "Netflix Clone (React.js)",
@@ -229,7 +229,7 @@
         "title": "# Guess (HTML, CSS, JS)",
         "category": "",
         "image": "numberguess.PNG",
-        "url": ""
+        "url": "https://snl-game-numberguessing.netlify.app/"
       },
             {
         "title": "Personal Resume (HTML, CSS, JS)",
@@ -307,7 +307,7 @@
         "title": "Todo Application (Vue 3)",
         "category": "",
         "image": "vue3 todo.PNG",
-        "url": ""
+        "url": "https://snl-v3-todo-app.netlify.app"
       }
     ]
   },
